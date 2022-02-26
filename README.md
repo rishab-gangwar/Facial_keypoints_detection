@@ -21,7 +21,7 @@ This project uses computer vision techniques and deep learning architectures to 
 ![miche][image3]
 
 
-The project is broken up into a few main parts in four Python notebooks
+The project is broken up into in four Python notebooks
 
 __Notebook 1__ : Loading and Visualizing the Facial Keypoint Data
 
@@ -70,8 +70,3 @@ cd Facial_keypoints_detection
 	conda install pytorch-cpu -c pytorch
 	pip install torchvision
 	```
-
-6. Install a few required pip packages, which are specified in the requirements text file (including OpenCV).
-```
-pip install -r requirements.txt
-```
